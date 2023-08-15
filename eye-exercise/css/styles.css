@@ -34,6 +34,10 @@ body {
   60%{
     transform: translate(-10px) scale(1.15);
   }
+
+  70%{
+    transform: translate(15px) scale(1.1);
+  }
   80%{
     transform: translate(20px) skew(10deg);
 
